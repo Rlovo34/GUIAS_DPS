@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "init_cars",
+    "slug": "init_cars",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "init_cars"
+}
